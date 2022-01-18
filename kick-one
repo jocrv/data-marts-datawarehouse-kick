@@ -1,0 +1,1142 @@
+Metadata is higher-level data, which describes lower-level data. They express meaning about the data. Due to its importance for a DW/DM project, Metadata should:
+
+
+Be created only for the approach used in development is Top-Down.
+
+ Right
+Be created incrementally throughout the project.
+
+
+Be created at the end of the project so as not to impact the development of architectural activities.
+
+
+Only be created if the Data Warehouse fetches data from multiple source systems and must be updated whenever a new system is used as a source.
+
+
+Be defined and created at the beginning of the project, with no need to update it.
+
+
+
+
+Explanation:
+Be created incrementally throughout the project.
+
+
+ 
+two
+          Question
+(AOCP - 2018 - SUSIPE-PA - Infrastructure Management Technician - IT Management Technician)
+
+In the context of Data Warehouse, another possibility of data support is the Data Mart. Check the alternative that presents a definition of Data Mart.
+
+ Right
+Data Mart is a subset of data pertaining to a specific area, not normalized and indexed to support searches.
+
+
+Data Mart is an updated version of the Data Warehouse to support data search and changes.
+
+
+Data Mart is a version of the Data Warehouse loaded on the client's computer, in order to speed up their searches.
+
+
+Data Mart is a copy of a Data Warehouse to perform searches and data changes.
+
+
+Data Mart is a subset of data referring to a specific area, chosen at random from the Data Warehouse.
+
+There is a technology that is used on large volumes of data to discover new information based on rules and patterns that exist in them. Typically, such information is not obtained simply by querying data stored in databases. For example, one of the largest retail chains in the United States discovered, in its huge database, through the use of this technology, that the increase in disposable diaper sales on Fridays was related to beer sales, being that, generally, the buyers were men. As a business opportunity, the retail chain placed the products side by side, resulting in a significant increase in sales for both. To obtain such discoveries, this technology uses several techniques, such as association, classification and prediction, among others. In this case, this technology is called:
+
+ 
+
+
+OLAP
+
+
+Date Mart.
+
+
+ Data Warehouse.
+
+ Right
+Data mining.
+
+
+Business Intelligence.
+
+
+
+Explanation:
+Data mining.
+
+There is a technology that is used on large volumes of data to discover new information based on rules and patterns that exist in them. Typically, such information is not obtained simply by querying data stored in databases. For example, one of the largest retail chains in the United States discovered, in its huge database, through the use of this technology, that the increase in disposable diaper sales on Fridays was related to beer sales, being that, generally, the buyers were men. As a business opportunity, the retail chain placed the products side by side, resulting in a significant increase in sales for both. To obtain such discoveries, this technology uses several techniques, such as association, classification and prediction, among others. In this case, this technology is called:
+
+ 
+
+ Right
+Data mining.
+
+
+Business Intelligence.
+
+
+Date Mart.
+
+
+ Data Warehouse.
+
+
+OLAP
+
+Answered on 12/30/2021 18:48:03
+
+
+Explanation:
+Data mining.
+
+
+ 
+two
+          Question
+(AOCP - 2018 - SUSIPE-PA - Infrastructure Management Technician - IT Management Technician)
+
+In the context of Data Warehouse, another possibility of data support is the Data Mart. Check the alternative that presents a definition of Data Mart.
+
+
+Data Mart is a copy of a Data Warehouse to perform searches and data changes.
+
+ Right
+Data Mart is a subset of data pertaining to a specific area, not normalized and indexed to support searches.
+
+
+Data Mart is a subset of data referring to a specific area, chosen at random from the Data Warehouse.
+
+
+Data Mart is a version of the Data Warehouse loaded on the client's computer, in order to speed up their searches.
+
+
+Data Mart is an updated version of the Data Warehouse to support data search and changes.
+
+Metadata is higher-level data, which describes lower-level data. They express meaning about the data. Due to its importance for a DW/DM project, Metadata should:
+
+
+Be defined and created at the beginning of the project, with no need to update it.
+
+
+Only be created if the Data Warehouse fetches data from multiple source systems and must be updated whenever a new system is used as a source.
+
+
+Be created at the end of the project so as not to impact the development of architectural activities.
+
+ Right
+Be created incrementally throughout the project.
+
+
+Be created only for the approach used in development is Top-Down.
+
+
+
+
+Explanation:
+Be created incrementally throughout the project.
+
+
+-----
+Data source mapping is a more detailed verification of the data source mapped during requirements gathering. About the data source mapping it is correct to state that:
+
+
+It is performed only if the data is extracted from more than one data source.
+
+
+Not required in Data Warehouse projects.
+
+
+It is performed only if users do not know which are the source systems for the Data Warehouse.
+
+Right
+The data is located in the source system and identified: the name of the table that will be accessed, the name, size and data type of the field.
+
+
+It is not necessary to map the data sources, as there is no risk of data absence or unavailability in the source system.
+
+
+
+
+Explanation:
+The data is located in the source system and identified: the name of the table that will be accessed, the name, size and data type of the field.
+
+
+
+
+ 
+
+two.
+Kimball says that good planning and well-thought-out requirements definition increase the probability of success of a Data Warehouse project, because:
+
+Right
+The requirements gathering identifies the queries that will be presented in the analytical environment.
+
+
+Its development is based on the needs of business users.
+
+
+After the completion of the DW/DM project, it is not possible to perform maintenance or add new modules to the environment.
+
+
+Its development is based on empirical experiences and on the needs that may arise in the future.
+
+
+Its development is based on the transactional systems from which the data will be extracted.
+
+The requirement gathering produces artifacts that support the development of the Data Warehouse project. Are they:
+
+
+Specification of the Business needs, document of the Analysis Perspectives (Visions), document of the measures to be analyzed (Indicators), document of predefined queries and the user document.
+
+
+Specification of Business needs, final Metadata document, document of measures that will be analyzed (Indicators), document of predefined queries and document indicating the origins of the data.
+
+ 
+
+Right
+Specification of the business needs, document of the Analysis Perspectives (Visions), document of the measures that will be analyzed (Indicators), document of predefined queries and the document indicating the origins of the data.
+
+
+Specification of the Business needs, document of the Analysis Perspectives (Visions), meeting minutes, document of predefined queries and the document indicating the origins of the data.
+
+
+Specification of Business needs, document of Analysis Perspectives (Visions), document of measures to be analyzed (Indicators), document of predefined queries and the list of BI analysts who will work on the project.
+
+
+
+
+Explanation:
+Specification of the business needs, document of the Analysis Perspectives (Visions), document of the measures that will be analyzed (Indicators), document of predefined queries and the document indicating the origins of the data.
+
+Data source mapping is a more detailed verification of the data source mapped during requirements gathering. About the data source mapping it is correct to state that:
+
+ 
+
+
+It is performed only if the data is extracted from more than one data source.
+
+
+Not required in Data Warehouse projects.
+
+
+It is performed only if users do not know which are the source systems for the Data Warehouse.
+
+ Right
+The data is located in the source system and identified: the name of the table that will be accessed, the name, size and data type of the field.
+
+
+It is not necessary to map the data sources, as there is no risk of data absence or unavailability in the source system.
+
+Answered on 01/17/2022 21:50:29
+
+
+Explanation:
+The data is located in the source system and identified: the name of the table that will be accessed, the name, size and data type of the field.
+
+
+ 
+two
+          Question
+Kimball says that good planning and well-thought-out requirements definition increase the probability of success of a Data Warehouse project, because:
+
+ Wrong
+The requirements gathering identifies the queries that will be presented in the analytical environment.
+
+ Right
+Its development is based on the needs of business users.
+
+
+After the completion of the DW/DM project, it is not possible to perform maintenance or add new modules to the environment.
+
+
+Its development is based on empirical experiences and on the needs that may arise in the future.
+
+
+Its development is based on the transactional systems from which the data will be extracted.
+The requirement gathering produces artifacts that support the development of the Data Warehouse project. Are they:
+
+
+Specification of the Business needs, document of the Analysis Perspectives (Visions), document of the measures to be analyzed (Indicators), document of predefined queries and the user document.
+
+
+Specification of Business needs, final Metadata document, document of measures that will be analyzed (Indicators), document of predefined queries and document indicating the origins of the data.
+
+ 
+
+ Right
+Specification of the business needs, document of the Analysis Perspectives (Visions), document of the measures that will be analyzed (Indicators), document of predefined queries and the document indicating the origins of the data.
+
+ Wrong
+Specification of the Business needs, document of the Analysis Perspectives (Visions), meeting minutes, document of predefined queries and the document indicating the origins of the data.
+
+
+Specification of Business needs, document of Analysis Perspectives (Visions), document of measures to be analyzed (Indicators), document of predefined queries and the list of BI analysts who will work on the project.
+
+
+
+
+Explanation:
+Specification of the business needs, document of the Analysis Perspectives (Visions), document of the measures that will be analyzed (Indicators), document of predefined queries and the document indicating the origins of the data.
+
+CESGRANRIO - 2012 - Petrobras - Junior Systems Analyst - Business Processes-2012.
+
+The Star model is the common name for a dimensional data model. In this type of model:
+
+
+The relationship between the fact and the dimensions is one to one, forming a cube or hypercube.
+
+ 
+
+Right
+Each dimension is represented by a table.
+
+
+The central entity is the transaction.
+
+
+Dimensions are a set of facts.
+
+
+The dimensions can be decomposed into several measures, giving rise to the model known as Snowflake.
+
+
+
+
+Explanation:
+Each dimension is represented by a table.
+
+
+
+
+ 
+
+two.
+FCC - 2018 - TCE-RS - External Public Auditor - Public or Business Administration
+
+Considering the theory of dimensional modeling, composed of Dimension tables and Fact table, used in Data Warehouse:
+
+
+There is no relationship between the Dimension tables and the Fact table.
+
+ 
+
+
+The degree of relationship from the Fact table to the Dimension tables is many-to-many.
+
+Wrong
+There is no limitation on the number of Dimension tables.
+
+
+All Dimension tables must have the same number of attributes.
+
+Wrong
+The Fact table must not have numeric type attributes.
+
+
+
+
+Explanation:
+There is no limitation on the number of Dimension tables.
+(CESPE - 2018 - TCM-BA - State Auditor of External Control.)
+
+About dimensional modeling tick the correct option.
+
+
+The Facts and Dimensions are not database tables, as, in the dimensional model, they are components of a Data Warehouse cube.
+
+
+Codes and associated descriptions, used as column names in reports and as filters in queries, should not be written to dimensional tables.
+
+
+The Snowflake model (SnowFlake) increases the storage space for dimensional data, as it adds several tables to the model, however it makes navigation through software that will use the database simpler.
+
+
+In the Star model, dimensions are normalized to make analytic queries more agile.
+
+Right
+The fundamental granularities for classifying all Fact tables of a dimensional model are: transactional, periodic snapshot, and cumulative snapshot.
+
+
+
+
+Explanation:
+The fundamental granularities for classifying all Fact tables of a dimensional model are: transactional, periodic snapshot, and cumulative snapshot.
+
+(CESPE - 2018 - TCM-BA - State Auditor of External Control.)
+
+About dimensional modeling tick the correct option.
+
+ 
+Codes and associated descriptions, used as column names in reports and as filters in queries, should not be written to dimensional tables.
+
+
+The Snowflake model (SnowFlake) increases the storage space for dimensional data, as it adds several tables to the model, however it makes navigation through software that will use the database simpler.
+
+
+In the Star model, dimensions are normalized to make analytic queries more agile.
+
+
+The Facts and Dimensions are not database tables, as, in the dimensional model, they are components of a Data Warehouse cube.
+
+ Right
+The fundamental granularities for classifying all Fact tables of a dimensional model are: transactional, periodic snapshot, and cumulative snapshot.
+
+Answered on 12/30/2021 23:29:00
+
+
+Explanation:
+The fundamental granularities for classifying all Fact tables of a dimensional model are: transactional, periodic snapshot, and cumulative snapshot.
+
+
+------
+CESGRANRIO - 2012 - Petrobras - Junior Systems Analyst - Business Processes-2012.
+
+The Star model is the common name for a dimensional data model. In this type of model:
+
+
+The relationship between the fact and the dimensions is one to one, forming a cube or hypercube.
+
+ 
+
+ Right
+Each dimension is represented by a table.
+
+ Wrong
+The central entity is the transaction.
+
+
+Dimensions are a set of facts.
+
+
+The dimensions can be decomposed into several measures, giving rise to the model known as Snowflake.
+
+Answered on 01/17/2022 21:53:13
+
+
+Explanation:
+Each dimension is represented by a table.
+
+
+ 
+two
+          Question
+FCC - 2018 - TCE-RS - External Public Auditor - Public or Business Administration
+
+Considering the theory of dimensional modeling, composed of Dimension tables and Fact table, used in Data Warehouse:
+
+
+There is no relationship between the Dimension tables and the Fact table.
+
+ 
+
+
+The degree of relationship from the Fact table to the Dimension tables is many-to-many.
+
+ Right
+There is no limitation on the number of Dimension tables.
+
+
+All Dimension tables must have the same number of attributes.
+
+ Wrong
+The Fact table must not have numeric type attributes.
+
+Answered on 01/17/2022 21:53:15
+
+
+Explanation:
+There is no limitation on the number of Dimension tables.
+
+(CESPE - 2018 - TCM-BA - State Auditor of External Control.)
+
+About dimensional modeling tick the correct option.
+
+
+The Facts and Dimensions are not database tables, as, in the dimensional model, they are components of a Data Warehouse cube.
+
+
+Codes and associated descriptions, used as column names in reports and as filters in queries, should not be written to dimensional tables.
+
+
+The Snowflake model (SnowFlake) increases the storage space for dimensional data, as it adds several tables to the model, however it makes navigation through software that will use the database simpler.
+
+
+In the Star model, dimensions are normalized to make analytic queries more agile.
+
+ Right
+The fundamental granularities for classifying all Fact tables of a dimensional model are: transactional, periodic snapshot, and cumulative snapshot.
+
+
+
+Explanation:
+The fundamental granularities for classifying all Fact tables of a dimensional model are: transactional, periodic snapshot, and cumulative snapshot.
+
+CESPE - 2012 - TJ-RO - Judicial Analyst - Systems Analysis - Development.
+
+Tick ​​the correct option about basic data warehouse elements (presentation area, staging area, data source and data access) and extract transformation load (ETL).
+
+ 
+
+ Right
+The staging area is defined as everything that exists between the data source and the presentation area.
+
+
+Data cleaning and blending must be performed in the presentation area, before the data access area.
+
+ 
+
+ Wrong
+The ad hoc data query tools, present in the data access area, make it possible, if necessary, to access data directly from the staging area or even at the data source.
+
+
+The data is effectively organized and stored in a staging area, being made available for consultation by tools in the data access area.
+
+
+For greater reliability in ETL, importing data into the data ware house should be limited to just one data source.
+
+
+
+
+Explanation:
+The staging area is defined as everything that exists between the data source and the presentation area.
+
+
+ 
+two
+          Question
+(Court of Justice of the State of Rio Grande do Norte (TJ-RN) - Full Support Analyst - Database - COMPERVE - 2020)
+
+Dimensional modeling is widely accepted as a technique for exposing analytical data, as it presents data in a way that business users can understand, as well as performs quickly in queries. In this context, a Dimension table:
+
+ Right
+It has only one primary key column.
+
+
+It is in the center of the dimensional model and the other tables around it.
+
+
+It must be normalized.
+
+
+It can be categorized as: additive, semi-additive and non-additive.
+
+
+It is also called a measurement table.
+
+FCC - 2015 - TCM-GO - External Control Auditor - Informatics.
+
+When the multidimensional data model begins to be defined, basic elements of representation need to have been established in order to create a modeling pattern. Consider a model where dimensions and facts are represented in tables, there may be multiple dimensions and multiple Fact tables.
+
+When modeling each table ...I... the following points should be considered:
+
+- The primary key is composite, with one key element for each dimension;
+
+- Each key element for the dimension must be represented and described in the corresponding ...II... table (to carry out the join);
+
+- The time dimension is always represented as part of the primary key.
+
+There must be a table ...III... for each dimension of the model, containing:
+
+- An artificial (or generated) generic key;
+
+- A generic description column for the dimension;
+
+- Columns that allow ...IV... ;
+
+- A level indicator that indicates the level of the hierarchy to which the table row refers.
+
+The gaps are correct, and respectively, filled with:
+
+ 
+
+ 
+
+
+Time - Dimension - Fact - Join with the dimension tables.
+
+ 
+
+ Right
+From facts - dimension - dimension - perform the filters.
+
+
+Dimension - of facts - of time - to carry out the filters.
+
+ 
+Dimension - of facts - of facts - the join with the fact tables.
+
+
+From facts - from time - dimension - signal the presence of facts for the time period indicated in the line.
+
+Answered on 12/31/2021 08:47:45
+
+
+Explanation:
+From facts - dimension - dimension - perform the filters.
+
+-----5
+(CESGRANRIO - 2012 - LIQUIGÁS - Junior Professional - Database Administration)
+
+Consider the Data Warehouse system to answer the question.
+
+Data Warehouse system definitions:
+
+. Time (hierarchy given by week, month and year).
+. Item (hierarchy given by product, product family, brand).
+. Location (hierarchy given by store, city, state, region).
+
+Let the following OLAP queries be requested by the client:
+
+I - Semi-annual sales of two types of specific products by region.
+II - Daily sales of a brand in a city.
+III - Monthly sales by product family by neighborhood.
+IV - Quarterly sales by product family from two different regions.
+
+According to the hierarchy defined in the system, ONLY queries requested in:
+
+ Right
+I and IV
+
+
+II and IV
+
+
+I and II
+
+ Wrong
+III and IV
+
+
+I, III and IV
+
+Answered on 12/31/2021 08:56:36
+
+ 
+two
+          Question
+Petrobras Transporte S.A (TRANSPETRO) 2018 (2nd edition), Position: Junior Systems Analyst (SAP)
+
+Let the following dimensional data model be represented, where the Sales table is the Facts table, and the other tables represent dimensions. In this schema, the attributes of the tables were omitted.
+
+ZDW
+
+In this case, what is the multidimensional model adopted?
+
+ 
+
+ Right
+Snowflake, specializing Dimension tables by hierarchical decomposition.
+
+
+Estrela, by combining the Time dimension with the other dimensions, which at first should be modeled separately.
+
+
+Snowflake, optimizing data access performance by decomposing indexed dimensions.
+
+ Wrong
+Star, with a central Fact table and Relationship tables linked to it, albeit indirectly.
+
+
+Star, with the application of third normal form in first-level Dimension tables, chosen by a performance criterion.
+
+Answered on 12/31/2021 08:58:58
+
+
+Explanation:
+Concept on the Star and Snowflake schemas highlighting the use of hierarchies.
+
+
+FCC - 2014 - TCE-RS - External Public Auditor - Data Processing Technician - Specific Knowledge.
+
+Data granularity is a critical issue in the design of a Data Warehouse (DW) as it affects the volume of data that resides in the DW and at the same time affects the type of query that can be served. Consider:
+
+I. The more detail there is, the lower the level of granularity. The less detail there is, the higher the level of granularity.
+
+II. When there is a very high level of granularity, disk space and the number of indexes needed become much smaller, but there is a corresponding decrease in the possibility of using the data to fulfill detailed queries.
+
+It is correct to say that statement I:
+
+ Right
+And statement II are correct and consistent regarding the level of granularity, disk space and types of queries in a DW.
+
+
+It's incorrect. Statement II is correct as it is consistent with respect to the level of granularity, disk space and types of queries in a DW.
+
+ 
+
+ Wrong
+And statement II is incorrect. Both have inconsistency regarding the level of granularity, disk space and types of queries in a DW.
+
+
+It is equivalent to: the less detail there is in the data, the finer the granularity; consequently, the more detail there is, the greater the granularity.
+
+
+It's correct. Statement II is incorrect as it presents inconsistency regarding the level of granularity, disk space and types of queries in a DW.
+
+
+
+
+Explanation:
+And statement II are correct and consistent regarding the level of granularity, disk space and types of queries in a DW.
+
+(CESGRANRIO - 2010 - Petrobras - Junior Systems Analyst - Business Processes.)
+
+In the context of Data Warehouses, the Extract, Transform and Load (ETC) process:
+
+ 
+
+ Wrong
+It only considers data from OLTP systems as valid for the process and, if there is a need to consider external data, these must be imported into legacy systems.
+
+ Right
+It presents, as some of its tasks, filtering, integration, conversion, condensation and derivation of input data, which can originate from different sources, including external to the organization's OLTP systems.
+
+
+It is revealed as one of the important stages of the Data Warehouse creation process, since its function is to automatically obtain the necessary knowledge for the standardization of data in multidimensional models.
+
+
+It takes into account the conceptual data model of data sources, which is usually expressed as an entity-relationship model.
+
+
+It produces, at the end, a series of tables (called Facts) that are characterized by having data normalized up to the 3rd normal form.
+
+(FCC - 2019 - SANASA Campinas - Information Technology Analyst - Analysis and Development.)
+
+Attention: To answer the question, consider the following image.
+
+https://www.questoesgratis.com/images/26/274712a55c4d49967c6e3328f868d8d0.png
+
+The Process, represented in the image by a vertical rectangle, is a method of feeding the Data Warehouse from the organization's various data. Its about
+
+
+SDGs
+
+ Right
+ERP
+
+
+CRM
+
+ Wrong
+ETL
+
+
+EIS
+
+
+
+ 
+two
+          Question
+FCC - 2012 - TST - Judicial Analyst - Systems Analysis.
+
+The ETL process in a Data Warehouse has several phases. In one of these phases, the
+
+
+Creation of static and behavioral diagrams of classes and attributes.
+
+ 
+
+ Right
+Extraction of data from source systems.
+
+
+Validation of user interfaces.
+
+
+Undefined costs and deadlines.
+
+
+Introduction of new products to the market.
+
+
+
+
+Explanation:
+Extraction of data from source systems.
+
+Consider the Pentaho Data Integration transformation flow shown below:
+
+
+
+Steps S1, S2 and S3 perform, respectively, operations of:
+
+
+Database Reading, Column Join and Log.
+
+ Right
+CSV File Reading, Column Split and Value Calculator.
+
+
+Properties File Reading, Single Line Selection and Value Calculator.
+
+
+Database Read, Column Split and JSON File Read.
+
+ Wrong
+JSON File Reading, Column Split and Table Format Output.
+
+Answered on 01/01/2022 20:06:18
+
+
+Explanation:
+CSV File Reading, Column Split and Value Calculator.
+
+
+ 
+two
+          Question
+(AOCP - 2012 - TCE-PA - IT Technical Advisor - Systems Analyst.)
+
+To transform data according to business rules in order to load it into a Data Warehouse, for example, some data sources may require a lot of manipulation. Therefore, one or more than one type of transformation may be required, three of which are:
+
+ 
+
+
+Loading, Extraction, Refinement.
+
+ Wrong
+Extraction, Pipeline, Componentization.
+
+
+Refinement, Translation, Componentization.
+
+
+Extraction, Translation, Joining.
+
+ Right
+Transposition, Junction, Derivation.
+
+(FCC - 2018 - DPE-AM - Specialist in Defense Management Analyst - Database Analyst)
+
+About the ETL process applied to Data Warehouse it is correct to say that:
+
+ 
+
+ Right
+The transformation phase consists of making changes to the loaded data, adapting its values ​​to the model defined for the Data Warehouse.
+
+
+The data extraction and loading phases are performed simultaneously.
+
+
+The data loading phase consists of inserting the transformed data into the company's transactional databases.
+
+
+The data extraction phase consists of getting the data from the Data Warehouse server.
+
+
+The data load phase aims to eliminate null values ​​contained in the company's transactional databases.
+
+(FCC - 2011 - TRT - 1st REGION (RJ) - Judicial Analyst - Information Technology)
+
+The level of summarization of the elements and details available in the data in a DW is called:
+
+ 
+
+ Wrong
+Architecture
+
+
+Integrity
+
+
+Relationship
+
+
+Capacity
+
+ Right
+granularity
+
+Answered on 01/01/2022 20:17:03
+
+ 
+two
+          Question
+FCC - Public Defender's Office of the State of Rio Grande do Sul - RS (DPE/RS) 2017 Position: Analyst - Information Technology Area - Specialty: Database
+
+One of the most used models in the design and implementation of a Data Warehouse is the dimensional or multidimensional model. In a dimensional model (consisting of a Fact table and several Dimension tables):
+
+
+The Fact table has a one-to-one mapping cardinality with each Dimension table.
+
+ Wrong
+Dimension tables support a theoretical maximum number of attributes.
+
+
+There is a theoretical minimum of three and a maximum of 15 Dimension tables.
+
+ 
+
+
+Dimension tables must contain only literal type attributes.
+
+ Right
+The Fact table must contain numerical attributes, in order to provide data for an analysis of the company's activities.
+
+
+
+Explanation:
+The Fact table must contain numerical attributes, in order to provide data for an analysis of the company's activities.
+
+About ETL (Extract, TransformandLoad), it is correct to say that:
+
+ 
+
+
+In the data transformation phase, typing errors must not be corrected or integrity violations discovered, for example, for the data to be kept as the original.
+
+
+The data does not necessarily need to be homogeneous to be loaded into the Data Warehouse, as one of the functions of the latter is to resolve conflicts that were not resolved by the ETL.
+
+
+Extracting and loading are optional in the process, but transformation is mandatory.
+
+ Right
+It is the process for processing data from one or more source databases to one or more target databases.
+
+
+It concentrates the least part of the effort required in the development of a Data Warehouse.
+
+(2013 DNIT Administrative Analyst - Information Technology Discipline)
+
+The following are OLAP product evaluation rules:
+
+
+Multidimensional conceptual view to formulate queries. Generic dimensionality. Segmented data manipulation. Unconstrained operations with alternate dimensions.
+
+ Wrong
+User transfer. Consistent performance in reporting. Cumulative Dimensionality. Unconstrained operations with cross dimensions.
+
+ Right
+Multidimensional conceptual view to formulate queries. Consistent performance in reporting. Generic dimensionality. Intuitive data manipulation.
+
+
+Conceptual extension of the data. Transparency to the access device. Intuitive data manipulation. Unrestricted operations with cross indications.
+
+
+Multidimensional conceptual view to constrain queries. User transparency. Generic dimensionality. Deductive manipulation of data.
+
+FCC Institutions: TRT - 15th Region Evidence: Judicial Analyst - Information Technology
+
+In the context of Business Intelligence, OLAP and OLTP systems differ in several characteristics. In the following table, with regard to characteristics, it is INCORRECT:
+
+
+
+ Right
+Feature - Focus. /OLAP - Operational level of the organization. It aims at the operational execution of the business. / OLTP - Strategic level of the organization. It aims at business analysis and decision making.
+
+
+Feature - Data structure. /OLAP - Storage made in Data Warehouse with performance optimization in large volumes of data. / OLTP - Storage made in conventional databases by the organization's information systems.
+
+
+Characteristic - Type of permissions on the data. /OLAP - Insert and read only allowed. For the user, only read is available. / OLTP - Read, insert, modify and delete data can be done.
+
+ Wrong
+Feature - Performance. /OLAP - Optimization for reading and generating analysis and management reports. / OLTP - High speed in handling operational data, but inefficient for generating managerial analysis.
+
+
+Characteristic - Volatility. /OLAP - Historical and non-volatile data that is practically unchanged except in specific cases caused by errors or inconsistencies. / OLTP -Volatile data, subject to modification and deletion.
+
+Answered on 01/01/2022 20:26:08
+
+
+Explanation:
+Feature - Focus. /OLAP - Operational level of the organization. It aims at the operational execution of the business. / OLTP - Strategic level of the organization. It aims at business analysis and decision making.
+
+(2019 COSEAC - 2019 - UFF - Information Technology Technician)
+
+In the Data Warehouse, administration, analysis and reporting on multidimensional data are performed through the processing mode:
+
+
+CORBA
+
+
+Data Mining.
+
+
+batch.
+
+ Right
+OLAP
+
+
+Data Marts.
+
+Answered on 01/01/2022 20:27:11
+
+(PUC-PR - 2017 - TJ-MS - Higher Education Technician - Database Analyst.)
+
+Microsoft Power BI is a suite of business analysis tools that provides various visualizations of indicators, created from processes that simplify the preparation of data from different data sources. The presentation of reports and dashboards is customized and prepared for publication, sharing and analysis by company members, through a web browser or mobile devices. It is a quick way to make available different, exclusive and complete views of the company's business, with a guarantee of scalability, governance and security.
+
+Regarding the features and tools available in Power BI, mark the CORRECT statement.
+
+ 
+
+
+After connecting to more than one data source, you can transform and combine the data collected in Power BI as needed into a useful query. There are two ways to combine queries: merging and appending. When you have one or more columns to add to another query, you need to add the query. When you have additional rows of data to add to an existing query, you need to merge the queries.
+
+
+In Power BI, dashboards are often confused with reports, as both are canvases with visualizations. Among the important differences, we can mention that, in the dashboard, it is not possible to filter or slice the visualizations, while in the reports there are different ways to filter, highlight and slice. Likewise, in the dashboard it is not possible to create alerts to be sent by email when certain conditions are met, but in the reports it is possible.
+
+
+When there are dashboards or reports that need to be accessed more frequently, you can add them to Favorites, which allows quick and easy access to both the dashboard and the report from all workspaces.
+
+When a dataset in Power BI is obtained from a file saved on a local computer, .CSV or .XLSX for example, the account used to access the equipment must be the same used for the Power BI login. That way, the dataset created on the Power BI website will have not only the reference of that Power BI login account, but also the reference to the source file, allowing the synchronization of that dataset with its source whenever there are changes, and keeping the visualizations that explore this data up to date.
+
+ Right
+When two or more tables are queried and loaded at the same time, Power BI Desktop attempts to find and create relationships, where cardinality, direction, and relationship properties are set automatically. Power BI Desktop looks for column names that might match, which indicates a potential relationship. If possible and as long as there is a high level of trust in the existence of the relationship, it is created automatically. Otherwise, the Manage Relationships dialog can still be used to create or edit relationships.
+
+Answered on 01/01/2022 21:05:23
+
+ 
+two
+          Question
+In Power BI you can use M and DAX Functions. Regarding these functions, it is possible to state that:
+
+ Right
+M functions are used to prepare and transform data in the Power BI query editor, and DAX functions are used to perform analytical tasks such as calculations.
+
+
+The M and DAX functions are used to solve Drill Down and Rolap Up analysis operations.
+
+
+M functions are used to prepare and transform data in the Power BI query editor, and DAX functions to load data into data model tables.
+
+
+M functions are used to perform analytical tasks such as calculations, and DAX functions are used to prepare and transform data in the Power BI query editor.
+
+ Wrong
+M functions are used to extract data in the Power BI query editor and DAX functions are used to perform analytical tasks such as calculations.
+
+Answered on 01/01/2022 21:07:04
+
+
+Explanation:
+M functions are used to prepare and transform data in the Power BI query editor, and DAX functions are used to perform analytical tasks such as calculations.
+
+(FCC - 2014 - TCE-GO - External Control Analyst - Information Technology.)
+
+OLAP tools allow the exploration of data from a Data Warehouse (DW). Regarding this topic, it is correct to say that:
+
+
+The result of OLAP operations does not allow for the discovery of trends and scenarios; this is possible through ERP systems, capable of transforming DW data into strategic information.
+
+
+Multidimensional analysis represents data as tables, similar to relational databases.
+
+
+To navigate the DW dimensions, drill operations are used, which do not affect the query's granularity level.
+
+
+The slice and dice operations perform the change on the DW data by modifying the granularity level of the query.
+
+ Right
+Combining the dimensions, the user has a view of the data of a DW, being able to perform basic operations such as slice and dice, drill down and roll up.
+
+Answered on 01/01/2022 21:08:29
+
+
+(CESGRANRIO - 2010 - Petrobras - Junior Systems Analyst - Business Processes.)
+
+In the context of Data Warehouses, the Extract, Transform and Load (ETC) process:
+
+ 
+
+
+It is revealed as one of the important stages of the Data Warehouse creation process, since its function is to automatically obtain the necessary knowledge for the standardization of data in multidimensional models.
+
+
+It presents, as some of its tasks, filtering, integration, conversion, condensation and derivation of input data, which can originate from different sources, including external to the organization's OLTP systems.
+
+
+It produces, at the end, a series of tables (called Facts) that are characterized by having data normalized up to the 3rd normal form.
+
+
+It only considers data from OLTP systems as valid for the process and, if there is a need to consider external data, these must be imported into legacy systems.
+
+
+It takes into account the conceptual data model of data sources, which is usually expressed as an entity-relationship model.
+
+Consider the Pentaho Data Integration transformation flow shown below:
+
+
+
+Steps S1, S2 and S3 perform, respectively, operations of:
+
+
+JSON File Reading, Column Split and Table Format Output.
+
+
+Properties File Reading, Single Line Selection and Value Calculator.
+
+
+Database Reading, Column Join and Log.
+
+right 
+CSV File Reading, Column Split and Value Calculator.
+
+
+Database Read, Column Split and JSON File Read.
+
+(FCC - 2011 - TRT - 1st REGION (RJ) - Judicial Analyst - Information Technology)
+
+The level of summarization of elements and details available in the data in a DW is called:
+
+ 
+
+
+Capacity
+
+
+granularity right 
+
+
+Relationship
+
+
+Integrity
+
+
+Architecture
+
+(2013 DNIT Administrative Analyst - Information Technology Discipline)
+
+The following are OLAP product evaluation rules:
+
+
+Multidimensional conceptual view to constrain queries. User transparency. Generic dimensionality. Deductive manipulation of data.
+
+RIGHT
+Multidimensional conceptual view to formulate queries. Consistent performance in reporting. Generic dimensionality. Intuitive data manipulation.
+
+
+User transfer. Consistent performance in reporting. Cumulative Dimensionality. Unconstrained operations with cross dimensions.
+
+
+Conceptual extension of the data. Transparency to the access device. Intuitive data manipulation. Unrestricted operations with cross indications.
+
+
+Multidimensional conceptual view to formulate queries. Generic dimensionality. Segmented data manipulation. Unconstrained operations with alternate dimensions.
+
+Metadata is higher-level data, which describes lower-level data. They express meaning about the data. Due to its importance for a DW/DM project, Metadata should:
+
+
+Be created at the end of the project so as not to impact the development of architectural activities.
+
+
+Be defined and created at the beginning of the project, with no need to update it.
+
+RIGHT
+Be created incrementally throughout the project.
+
+
+Only be created if the Data Warehouse fetches data from multiple source systems and must be updated whenever a new system is used as a source.
+
+
+Be created only for the approach used in development is Top-Down.
